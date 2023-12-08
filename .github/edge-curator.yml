@@ -1,4 +1,4 @@
-url_template: 'https://<branch>--aem-edge-test--kronnox.hlx.live/'
+url_template: 'https://<branch>--aem-edge-test--kronnox.hlx.live'
 sites:
   - /
   - /foo
