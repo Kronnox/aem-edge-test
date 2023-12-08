@@ -1,9 +1,9 @@
-# Your Project's Title...
+# AEM Edge Test
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-edge-test--kronnox.hlx.page/
+- Live: https://main--aem-edge-test--kronnox.hlx.live/
 
 ## Installation
 
