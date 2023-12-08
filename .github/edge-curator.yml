@@ -1,0 +1,7 @@
+url_template: 'https://<branch>--aem-edge-test--kronnox.hlx.live/'
+sites:
+  - /
+  - /foo
+  - /bar
+  - /not-found
+  - /drafts/luca/columns-block
